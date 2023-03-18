@@ -1,6 +1,6 @@
 # Weather and Yield Dataset
 
-This data set contains information on the weather: 
+This dataset contains information on the weather: 
 
 * date, 
 * maximum temperature, 
@@ -14,7 +14,7 @@ and
 
 for municipalities in Manitoba, Canada.
 
-The crop yield data are represented with a detailed farm-level panel data set of yield per acre and total acres for each crop type produced. The dataset includes 75 crop types from 19,238 farms and is available from Manitoba Agriculture (https://www.gov.mb.ca/agriculture/).
+The crop yield data are represented with a detailed farm-level panel dataset of yield per acre and total acres for each crop type produced. The dataset includes 75 crop types from 19,238 farms and is available from Manitoba Agriculture (https://www.gov.mb.ca/agriculture/).
 
 Historical weather data are obtained from the Environment Canada archive of the Adjusted and Homogenized Canadian Climate Data (AHCCD) for Manitoba (https://www.climate.weather.gc.ca/historical-data/).
 
